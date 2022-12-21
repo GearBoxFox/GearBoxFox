@@ -1,14 +1,9 @@
 GearFox
 ================
 
-Robotics engineer and enthusiasts
+Head programmer of the Titanium Titans FRC robotics team; Computer enthutiast;
 
-Knows: 
+Current Project:
+https://github.com/TitaniumTitans/2022HyperionRewrite
 
-[![My Skills](https://skillicons.dev/icons?i=java,git,py,linux)](https://skillicons.dev)
-
-Learning: C/C++, Game Dev
-
-Favorite IDE's/Text editors:
-
-[![My Skills](https://skillicons.dev/icons?i=idea,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,c,html,css,discord,bots,git,raspberrypi,arduino,linux,vscode&perline=4)](https://skillicons.dev)
